@@ -1,4 +1,4 @@
-# CMPS130 Fall 2021
+# CSE130 Fall 2021
 ## Principles of Computer System Design
 | key | value | 
 |-----|-------|
@@ -9,7 +9,10 @@
 |Prerequisites: | CMPE 12 and either CMPE 13 or CMPS 12B; knowledge of C programming language. |
 |Required Text: | Principles of Computer System Design, Saltzer & Kaashoek (ISBN 0123749573)|
 ||Free online text (when signed in) available here: https://www.oreilly.com/library/view/principles-of-computer/9780123749574/ |
-|TA: | TBD|
+|TA: | Daniel Alves, Jai Dodechani, Lokesh Jaliminche |
+| Daniel Alves Sections: | Monday @11AM (remote), Tuesday @11AM (remote) |
+| Jai Dodechani Sections: | |
+| Lokesh Jaliminche Sections: | |
 
 
 # Course Overview
